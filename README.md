@@ -3,7 +3,11 @@ This is a collection of Jupyter notebooks developed as teaching aids for machine
 
 The notebooks are provided in three forms:
 
-**1)** As downloadable .jpynb files in this GitHub repository. The notebooks can be run on top of a local Python environment or uploaded to cloud-based environments such as Kaggle or Colaboratory.
-**2)** As Colab notebooks (links see below) which can be run directly in Colab provided the user has a Google account.
+**1)** As downloadable .jpynb files in this GitHub repository. The notebooks can be run on top of a local Python environment or uploaded to cloud-based environments such as Kaggle or Colaboratory.  
+
+**2)** As Colab notebooks (links see below) which can be run directly in Colab provided the user has a Google account.  
+
 **3)** In a separate Binder environment (again, links see below), where they can also be run directly online.  
+
+sdfdsf
 
