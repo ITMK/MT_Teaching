@@ -23,4 +23,4 @@ Initially, four notebooks are provided in this repository, two notebooks concern
 
 ## Link to the Binder repository
 
-Coming soon.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITMK/MT_Teaching/main)
