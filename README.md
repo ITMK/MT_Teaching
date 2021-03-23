@@ -15,8 +15,7 @@ Initially, four notebooks are provided in this repository, two notebooks concern
 
 ## Links to the Colab versions of the notebooks  
 
-- <a href="https://colab.research.google.com/drive/1UUteTlvULD8mSh94Hd6pmL5OudP8l9bc?usp=sharing" target="_blank">Understanding Word Embeddings for NMT – Fundamentals</a>
-- [Understanding Word Embeddings for NMT – Fundamentals](https://colab.research.google.com/drive/1UUteTlvULD8mSh94Hd6pmL5OudP8l9bc?usp=sharing)
+- [Understanding Word Embeddings for NMT – Fundamentals](https://colab.research.google.com/drive/1UUteTlvULD8mSh94Hd6pmL5OudP8l9bc?usp=sharing){:target="_blank"}
 - [Understanding Word Embeddings for NMT - Exploring the Google News Model](https://colab.research.google.com/drive/1lpWc88AKJhFi8fVvbB6Lhtq8i_EtCjhY?usp=sharing)
 - [MT Quality Score Calculator for Metrics Based on String Matching](https://colab.research.google.com/drive/19Mub2IJV6SoyuvvsyjSeaGiSQ1q433jD?usp=sharing)
 - [MT Quality Score Calculator for Embedding-Based Metrics](https://colab.research.google.com/drive/1pK479-xhDSDHrJA4OTfU1tXV6Pwp_G4f?usp=sharing)
