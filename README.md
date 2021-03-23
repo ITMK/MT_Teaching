@@ -22,7 +22,7 @@ In order to run the notebooks in Colaboratory, a Google account is required. Als
 - [MT Quality Score Calculator for Embedding-Based Metrics](https://colab.research.google.com/drive/1pK479-xhDSDHrJA4OTfU1tXV6Pwp_G4f?usp=sharing)
 
 
-## Link to the Binder repository
+## Link to the Binder environment
 In the Binder environment, all packages required for running the notebooks are already preinstalled. Hence, the housekeeping steps at the beginning of the notebooks can be skipped.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITMK/MT_Teaching/main)
