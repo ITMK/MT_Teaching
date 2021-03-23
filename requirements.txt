@@ -1,0 +1,9 @@
+bert-score
+gensim
+matplotlib
+nltk
+numpy
+pyter3
+sklearn
+transformers
+unbabel-comet
