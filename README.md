@@ -3,9 +3,9 @@ This is a collection of Jupyter notebooks developed as teaching aids for machine
 
 The notebooks are provided in three forms:
 
-**1)** As downloadable .jpynb files in this GitHub repository. The notebooks can be run on top of a local Python environment or uploaded to cloud-based environments such as Kaggle or Colaboratory.  
+**1)** As downloadable .jpynb files in this GitHub repository. The notebooks can be run on top of a local Python environment or uploaded to cloud-based environments such as Kaggle or Colaboratory (a Colab version of the notebooks is already provided).  
 
-**2)** As Colab notebooks which can be run directly in Colab, provided the user has a Google account.  
+**2)** As Colab notebooks which can be run directly in Colaboratory.  
 
 **3)** In a separate Binder environment, where they can also be run directly online.  
 
@@ -14,7 +14,7 @@ More information on how to run Jupyer notebooks in different environments and ho
 Initially, four notebooks are provided in this repository, two notebooks concerned with calculating string-based and word embedding-based MT quality scores and two notebooks for exploring word embeddings in the context of neural machine translation. In the future, further notebooks will be added to the repository.  
 
 ## Links to the Colab versions of the notebooks  
-In order to run the notebooks in Colab, a Google account is required. Also, the housekeeping steps at the beginning of the notebooks have to be run.
+In order to run the notebooks in Colaboratory, a Google account is required. Also, the housekeeping steps at the beginning of the notebooks have to be run.
 
 - [Understanding Word Embeddings for NMT – Fundamentals](https://colab.research.google.com/drive/1UUteTlvULD8mSh94Hd6pmL5OudP8l9bc?usp=sharing)
 - [Understanding Word Embeddings for NMT - Exploring the Google News Model](https://colab.research.google.com/drive/1lpWc88AKJhFi8fVvbB6Lhtq8i_EtCjhY?usp=sharing)
