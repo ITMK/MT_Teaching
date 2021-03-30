@@ -26,3 +26,6 @@ In order to run the notebooks in Colaboratory, a Google account is required. Als
 In the Binder environment, all packages required for running the notebooks are already preinstalled. Hence, the housekeeping steps at the beginning of the notebooks can be skipped.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ITMK/MT_Teaching/main)
+
+### Note on running the notebook on embedding-based MT quality scores in the Binder environment: 
+The MT quality scores discussed in this notebook rely on rather large language models, which have to be loaded into the Binder environment in order to calculate the scores. However, loading these models may exceed the memory available in the Binder environment. Therefore, it may be advisable to run this notebook in Colab or on top of a local Python distribution instead. 
