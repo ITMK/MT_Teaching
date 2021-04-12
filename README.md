@@ -11,7 +11,10 @@ The notebooks are provided in three forms:
 
 More information on how to run Jupyer notebooks in different environments and how to employ them in teaching scenarios can be found in [Barba et al. (2019): Teaching and Learning with Jyputer](https://jupyter4edu.github.io/jupyter-edu-book/). This book is an excellent resource which provides a wealth of information for lecturers interested in using Jupyter notebooks as didactic instruments in their courses.  
 
-Initially, four notebooks are provided in this repository, two notebooks concerned with calculating string-based and word embedding-based MT quality scores and two notebooks for exploring word embeddings in the context of neural machine translation. In the future, further notebooks will be added to the repository.  
+Initially, four notebooks are provided in this repository, two notebooks concerned with calculating string-based and word embedding-based MT quality scores and two notebooks for exploring word embeddings in the context of neural machine translation. In the future, further notebooks will be added to the repository.
+
+#### Note on the GitHub versions of the notebooks
+Sometimes, when you click on one of the notebooks in the list above in order to see its content, GitHub will not load and display the notebook properly. This is a recurring issue on GitHub's side for which there does not seem to be any permanent solution yet. If this happens, just right-click on the notebook you want to display, copy the link to the clipboard and paste it in [Jupyter's nbviewer](https://nbviewer.jupyter.org/). 
 
 ## Links to the Colab versions of the notebooks  
 In order to run the notebooks in Colaboratory, a Google account is required. Also, the housekeeping steps at the beginning of the notebooks have to be run.
