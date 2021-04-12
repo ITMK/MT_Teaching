@@ -4,6 +4,7 @@ matplotlib
 nltk
 numpy
 pyter3
+seaborn
 sklearn
 transformers
 unbabel-comet
