@@ -1,5 +1,6 @@
 # Jupyter notebooks for machine translation technology teaching
-DEPRECATION NOTE: The Jupyter notebooks in this repository are no longer up to date. Updated versions of the notebooks can be found on the [DataLit<sup>MT</sup> website](https://itmk.github.io/The-DataLitMT-Project/resources/) or in the [DataLit<sup>MT</sup> GitHub repository](https://github.com/ITMK/DataLitMT).
+
+**DEPRECATION NOTE:** The Jupyter notebooks in this repository are no longer up to date. Updated versions of the notebooks can be found on the [DataLit<sup>MT</sup> website](https://itmk.github.io/The-DataLitMT-Project/resources/) or in the [DataLit<sup>MT</sup> GitHub repository](https://github.com/ITMK/DataLitMT).
 
 This is a collection of Jupyter notebooks developed as teaching aids for machine translation teaching in the [MA in Specialised Translation](https://www.th-koeln.de/en/academics/specialized-translation-masters-program_7498.php) programme at the Institute of Translation and Multilingual Communication at TH Köln, Germany. The notebooks are provided as open-source resources under the MIT License and can be used by interested parties for their own translation technology classes.  
 
